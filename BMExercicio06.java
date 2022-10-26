@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BMExercio06{
+public class BMExercicio06{
     public static void main(String[] args){
         Scanner entradaUsuario = new Scanner(System.in);
         int numeroDoDia = 1;
