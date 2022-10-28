@@ -8,6 +8,6 @@ public class BMExercicio10{
             x++;
             i++;
 
-        } while(i <= 20);
+        } while(i < 20);
     }
 }
